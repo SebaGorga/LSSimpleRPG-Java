@@ -1,0 +1,11 @@
+unnamed package
+business
+business.entities
+persistence
+persistence.exceptions
+persistence.json.adventure
+persistence.json.character
+persistence.json.monster
+presentation
+presentation.views
+presentation.views.console
